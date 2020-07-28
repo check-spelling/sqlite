@@ -1,6 +1,7 @@
 \.db$
 \.pfx$
 \.png$
+\.test$
 \.vsix$
 ^\.github/
 ^art/

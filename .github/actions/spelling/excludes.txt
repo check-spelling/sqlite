@@ -7,4 +7,5 @@
 ^art/
 ^ext/fts3/unicode/[^/]*\.txt$
 ^manifest$
+^test/genesis\.tcl$
 /fts.porter\.test$

@@ -4,3 +4,4 @@
 \.vsix$
 ^\.github/
 ^art/
+^manifest$

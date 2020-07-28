@@ -5,3 +5,4 @@
 ^\.github/
 ^art/
 ^manifest$
+/fts.porter\.test$

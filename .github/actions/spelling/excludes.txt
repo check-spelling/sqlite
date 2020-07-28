@@ -5,6 +5,7 @@
 \.vsix$
 ^\.github/
 ^art/
+^config\.sub$
 ^ext/fts3/unicode/[^/]*\.txt$
 ^manifest$
 ^test/genesis\.tcl$

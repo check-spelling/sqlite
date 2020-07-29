@@ -12,3 +12,4 @@ sqlite\.org/src/info/[0-9a-f]{10,}
 FLAGS="[^"]*"
  [Tt]icket \[[0-9a-f]{8,}\]
  [Tt]icket [0-9a-f]{16,}
+c:\S*~

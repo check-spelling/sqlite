@@ -11,3 +11,4 @@
 ^manifest$
 ^test/genesis\.tcl$
 /fts.porter\.test$
+(?:^|/)install-sh$

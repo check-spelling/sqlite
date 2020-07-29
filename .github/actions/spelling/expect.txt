@@ -2343,6 +2343,7 @@ ncurses
 ncursesw
 ncx
 ncycle
+NDATA
 ndebug
 NDeep
 NDELAY
@@ -2421,6 +2422,7 @@ NINCR
 nindex
 NINT
 nkb
+NKey
 NLEVEL
 nlink
 nlist
@@ -3065,6 +3067,7 @@ RDONLY
 rdr
 rds
 rdtsc
+RDWR
 readback
 readblob
 readdb
@@ -3353,6 +3356,7 @@ shmerr
 shmfault
 shmfd
 Shmhdr
+Shmid
 Shmkey
 shmlock
 SHMMAP
@@ -3956,6 +3960,7 @@ tridxby
 triggerfinish
 trimleft
 trimright
+tring
 trnm
 Tru
 TRUEFALSE

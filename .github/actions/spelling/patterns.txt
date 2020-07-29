@@ -3,6 +3,7 @@ X'[0-9A-F]+'
  hexio_write .*
 # test/speedtest1.c:
 "(?:|  )Z(?:[A-Z]+,){1,}
+"  Z[A-Z]+
 
 (?:\b|(?<=_))([A-Za-z])\1{3,}\b
  bits - B+A

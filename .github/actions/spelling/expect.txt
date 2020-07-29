@@ -6,18 +6,11 @@ Abcde
 abcdef
 abcdefg
 ABCDEFGHIJ
-ABCDEGRST
-ABCDGIRSTW
-ABCDGISTW
 ABCDHLRMY
 abcdxxx
 abcyy
-ABDT
-abe
-abf
 Abortable
 absdir
-acb
 acd
 aclocal
 actioncmp
@@ -27,7 +20,6 @@ ada
 adamd
 adb
 addbasis
-addflag
 addlibs
 addop
 addoptrace
@@ -41,17 +33,13 @@ afl
 afnrtv
 afp
 afpfs
-AFPSETLOCK
 afte
 agg
 aggexpr
 agginfo
 AGGINVERSE
 AGGSTEP
-Ahh
 Ainc
-AITW
-aix
 Ajuba
 algo
 alikes
@@ -66,7 +54,6 @@ allcnt
 allcollist
 alldeplibs
 allexcept
-allextract
 allflags
 alli
 allidx
@@ -222,7 +209,6 @@ batchsize
 bba
 bbb
 BBBBBBBBC
-bbd
 bbg
 bbox
 bbum
@@ -242,7 +228,6 @@ betweenop
 BEXE
 bexpall
 Bexport
-BFBFBF
 bfs
 bft
 bgc
@@ -307,7 +292,6 @@ breadthfirstsearch
 breaklock
 Brk
 Brkpt
-brtl
 bsc
 Bshareable
 BSig
@@ -393,7 +377,6 @@ CCOPTS
 CCur
 CData
 cdate
-cdbaa
 CDcd
 cdebug
 cdecl
@@ -447,19 +430,12 @@ checkindex
 checkpointer
 CHECKRESERVEDLOCK
 checksymbols
-chgrp
-chgrpcmd
-chgrpprog
 Chgset
 chksum
 chmod
-chmodcmd
-chmodprog
 chng
 CHNGCTR
 chown
-chowncmd
-chownprog
 chroot
 chsize
 CHUNKALLOC
@@ -483,7 +459,6 @@ cksum
 cksumsql
 cksumvfs
 ckv
-CKVERS
 clcid
 cldde
 cle
@@ -520,14 +495,12 @@ cmp
 cmpaff
 cmpfnc
 CMPID
-cmpprog
 Cmpr
 cmpw
 Cn
 cname
 cnearset
 Cnnn
-Cnst
 cnt
 Cntdown
 cntlines
@@ -596,7 +569,6 @@ confstr
 conftest
 coninfo
 conlflags
-CONNEC
 conninfo
 conslist
 convertfrom
@@ -619,7 +591,6 @@ CPeer
 cplusplus
 cpp
 CPPFLAGS
-cpprog
 Cprev
 cpuinfo
 cpy
@@ -633,7 +604,6 @@ CREATEFILE
 CREATEFILEMAPPINGA
 createidx
 createkw
-CREATELOCKPATH
 cref
 CResult
 crisismerge
@@ -940,7 +910,6 @@ DTCLSH
 DText
 DTHREADSAFE
 dtnum
-dtr
 DType
 DUALCASE
 Duint
@@ -1066,7 +1035,6 @@ EREPORT
 errcnt
 errcode
 errfmt
-errid
 errline
 errlog
 errmsg
@@ -1380,7 +1348,6 @@ gethostuuid
 Getint
 getline
 GETLK
-GETLOCKPATH
 GETMALLOC
 GETMUTEX
 getopt
@@ -1724,7 +1691,6 @@ itici
 itila
 itilib
 itivi
-itr
 iu
 iveness
 iversion
@@ -1760,7 +1726,6 @@ jointype
 journalmode
 Journalname
 journaltest
-JOUT
 jp
 jpeg
 jpg
@@ -2379,7 +2344,6 @@ ncurses
 ncursesw
 ncx
 ncycle
-ndata
 ndebug
 NDeep
 NDELAY
@@ -2458,7 +2422,6 @@ NINCR
 nindex
 NINT
 nkb
-nkey
 NLEVEL
 nlink
 nlist
@@ -2482,7 +2445,6 @@ nmnum
 nmres
 nn
 NNAAAA
-nname
 nnc
 nnn
 NNNb
@@ -2565,7 +2527,6 @@ noskipscan
 NOSPACE
 nostart
 nostatic
-NOSTORE
 NOSUBDIR
 nosuchtokenizer
 NOSYMBOLS
@@ -2738,7 +2699,6 @@ OPENEXCLUSIVE
 openlog
 opentemp
 openwin
-OPENX
 openxmlformats
 opflag
 OPFLG
@@ -2871,13 +2831,11 @@ PGFTR
 PGHDR
 pgi
 pgidx
-PGIN
 pginstrument
 pgno
 pgo
 pgoffset
 pgoptimize
-PGOUT
 pgptrmap
 PGroup
 pgsize
@@ -2906,7 +2864,6 @@ pkglibdir
 pkzip
 placeholders
 PLARGE
-platfo
 PLATFORMNAME
 pleft
 plength
@@ -3109,7 +3066,6 @@ RDONLY
 rdr
 rds
 rdtsc
-rdwr
 readback
 readblob
 readdb
@@ -3167,7 +3123,6 @@ regsub
 Reinit
 reiniter
 reinitializer
-RELEASECONCH
 releasetest
 relinking
 reloadable
@@ -3201,7 +3156,6 @@ rhsalias
 rightbbox
 Rivest
 rjf
-RJT
 rl
 rlim
 rlimit
@@ -3400,7 +3354,6 @@ shmerr
 shmfault
 shmfd
 Shmhdr
-shmid
 Shmkey
 shmlock
 SHMMAP
@@ -3434,7 +3387,6 @@ Sigs
 SIGSEGV
 SIGTRAP
 siii
-sillegal
 singlethread
 sissii
 sixtyfour
@@ -3445,7 +3397,6 @@ SKIPAHEAD
 SKIPEMPTY
 skipnext
 SKIPSCAN
-sleaf
 sln
 SLOCHNG
 smbfs
@@ -3460,7 +3411,6 @@ sockname
 SOff
 solaris
 soname
-soption
 soroot
 sortbasis
 SORTBYGROUP
@@ -3546,7 +3496,6 @@ sqlthread
 sqltie
 sqltrace
 sqr
-squote
 srand
 srandomdev
 src
@@ -3564,14 +3513,12 @@ SRT
 SRVAL
 sscanf
 SSCONFLICT
-ssegid
 ssen
 ssenevi
 ssenluf
 ssensuo
 ssiii
 ssize
-ssqlite
 STACKALLOC
 stacksize
 standalone
@@ -3614,7 +3561,6 @@ stdlib
 stdout
 steprc
 stepsql
-stimeout
 stkdepth
 stl
 STLIB
@@ -3670,7 +3616,6 @@ strtol
 strtoll
 strtoul
 strtoull
-strying
 STUBPREFIX
 stylesheet
 Subcmd
@@ -3701,7 +3646,6 @@ SUBWHERE
 Sudoku
 SUFX
 sumint
-sundefined
 sunos
 suo
 superlinearly
@@ -3837,7 +3781,6 @@ tempstore
 teneleventwelve
 terabyte
 termcap
-termid
 termio
 termlist
 Termset
@@ -4003,7 +3946,6 @@ tracesql
 translatefilename
 translen
 translit
-TRANSPROXY
 transtype
 Trbul
 trc
@@ -4041,7 +3983,6 @@ TWOSIZE
 txn
 txscale
 typebyif
-typecode
 typedef
 typeid
 typemask
@@ -4387,7 +4328,6 @@ windres
 winepath
 WINFILE
 winfo
-WINFUNC
 winfx
 WINMEM
 winnt
@@ -4503,7 +4443,6 @@ xorigin
 xp
 xpg
 XPROFILE
-xrange
 xrc
 xright
 Xrm
@@ -4567,7 +4506,6 @@ yyendofinput
 yyerrcnt
 yyerrorhit
 YYERRORSYMBOL
-YYERRSYMDT
 YYFALLBACK
 yygoto
 yyhwm

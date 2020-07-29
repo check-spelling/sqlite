@@ -146,7 +146,6 @@ ATOMI
 atomiccommit
 atomicwrite
 ATOMICXXX
-Atonin
 ator
 atrc
 ATTAC

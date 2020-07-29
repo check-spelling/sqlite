@@ -5,6 +5,7 @@
 \.vsix$
 ^\.github/
 ^art/
+^aclocal\.m4$
 ^config
 ^ext/fts3/unicode/[^/]*\.txt$
 ^manifest$
